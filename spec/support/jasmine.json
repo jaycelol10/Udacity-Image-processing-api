@@ -1,0 +1,19 @@
+{
+    "spec_dir": "jsbuild/tests",
+    "spec_files": ["**/*.test.js"],
+  
+    "env": {
+      "failSpecWithNoExpectations": false,
+  
+      "stopSpecOnExpectationFailure": false,
+  
+      "stopOnSpecFailure": false,
+  
+      "random": false
+    },
+  
+    "helpers": ["helpers/**/*.js"],
+    "stopSpecOnExpectationFailure": false,
+    "random": false
+  }
+  
