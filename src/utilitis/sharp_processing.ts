@@ -19,7 +19,6 @@ const resizeImage = async (
             .toFormat('jpg')
             .toBuffer();
         await fs.writeFile(thumpPath, thumbImage);
-    
     }
     return thumpPath;
 };
