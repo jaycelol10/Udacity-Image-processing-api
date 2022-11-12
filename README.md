@@ -1,4 +1,3 @@
-# Udacity-Image-processing-api
 Image processing api
 # udacity-Image-Processing
 
